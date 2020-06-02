@@ -1,2 +1,2 @@
-# SACInputPasswordWidget-
+# SACInputPasswordWidget
 SACInputPasswordWidget
